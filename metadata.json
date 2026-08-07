@@ -1,0 +1,6 @@
+{
+  "name": "FloatChat",
+  "description": "Explore the Ocean Through AI - Futuristic interactive ocean visualization, ARGO float network monitoring, and oceanographic AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
